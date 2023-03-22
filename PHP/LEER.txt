@@ -1,0 +1,5 @@
+1) En la carpeta donde tengan el codigo PHP, ahi tambien tienen que tener las matrices que van a utlizar en un TXT cada 
+(asi como lo envié al WhatsApp)
+2) En la linea 10, donde sale el nombre del archivo de la matriz, lo cambian por como ustedes lo tengan.
+3) En la linea 11 solo cambian el tamaño por el cual es la matriz que van a usar, tal cual como está ahí
+4) El resultado que de , está en nanosegundos 
